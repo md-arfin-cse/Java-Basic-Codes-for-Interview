@@ -25,3 +25,15 @@ public class print_primeno_method_function_4 {
 
     }
 }
+
+
+
+
+/*
+o/p-
+1is not prime number
+10is not prime number
+13is prime number
+45is not prime number
+ 
+*/
