@@ -20,3 +20,11 @@ public class AvgMarksOf5Subject_17 {
         System.out.println(" Avg Marks " +avg);
     }
 }
+
+
+/*
+Enter marks of 5 Subjects: 
+78 94 65 32 68
+Total Marks: 337
+ Avg Marks 67.4
+*/
