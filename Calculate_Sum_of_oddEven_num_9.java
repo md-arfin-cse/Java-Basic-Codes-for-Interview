@@ -29,3 +29,14 @@ public class Calculate_Sum_of_oddEven_num_9 {
         }
     }
 }
+
+
+// Enter Range: 
+// 10
+// Sum of Even no 30
+
+
+// Enter Range: 
+// 11
+// Sum of Odd no 36
+
