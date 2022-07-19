@@ -12,3 +12,16 @@ public class Arrays_length_3 {
         System.out.println("Array Length: " +a.length);
     }
 }
+
+
+/*
+
+Enter Elements in Arrays: 
+10 20 30 40 50
+10 
+20 
+30 
+40 
+50 
+Array Length: 5
+*/
